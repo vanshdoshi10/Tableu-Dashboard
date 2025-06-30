@@ -1,27 +1,30 @@
-📊 HR Data Analysis Dashboard - Tableau Project
-This repository contains a Tableau dashboard developed for Human Resource data analysis. The dashboard provides interactive insights into various HR metrics like employee demographics, department-wise distribution, hiring trends, and more.
+# 📊 HR Data Analysis Dashboard - Tableau Project
 
-🚀 Project Overview
+This repository contains a **Tableau dashboard** developed for Human Resource data analysis. The dashboard provides interactive insights into various HR metrics like employee demographics, department-wise distribution, hiring trends, and more.
+
+## 🚀 Project Overview
+
 The goal of this project is to analyze and visualize HR data to help organizations make data-driven decisions regarding workforce planning and management.
 
-🧩 Dashboard Features
-📍 Employee Demographics: Age, gender, and marital status distribution.
+## 🧩 Dashboard Features
 
-🏢 Departmental Overview: Headcount and turnover rate by department.
+- 📍 **Employee Demographics**: Age, gender, and marital status distribution.
+- 🏢 **Departmental Overview**: Headcount and turnover rate by department.
+- 🕒 **Hiring Trends**: Year-wise and month-wise recruitment trends.
+- 📈 **Attrition Analysis**: Identify key patterns behind employee attrition.
+- 🗂️ **Job Roles & Education**: Distribution across job roles and educational backgrounds.
 
-🕒 Hiring Trends: Year-wise and month-wise recruitment trends.
+## 📁 Files Included
 
-📈 Attrition Analysis: Identify key patterns behind employee attrition.
+- `Tableu_Dashboard.twb` - Main Tableau workbook file containing the dashboard and visualizations.
 
-🗂️ Job Roles & Education: Distribution across job roles and educational backgrounds.
+## 📷 Sample Visuals
 
-📁 Files Included
-Tableu_Dashboard.twb - Main Tableau workbook file containing the dashboard and visualizations.
+> _Include screenshots of the dashboard here (if possible)_
 
-📷 Sample Visuals
-Include screenshots of the dashboard here (if possible)
+## 🛠️ Tools Used
 
-🛠️ Tools Used
-Tableau Desktop: For building the interactive dashboard.
+- **Tableau Desktop**: For building the interactive dashboard.
+- **Excel / CSV** (assumed): As the data source.
 
-Excel / CSV (assumed): As the data source.
+

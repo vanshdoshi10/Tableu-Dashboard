@@ -18,10 +18,6 @@ The goal of this project is to analyze and visualize HR data to help organizatio
 
 - `Tableu_Dashboard.twb` - Main Tableau workbook file containing the dashboard and visualizations.
 
-## 📷 Sample Visuals
-
-> _Include screenshots of the dashboard here (if possible)_
-
 ## 🛠️ Tools Used
 
 - **Tableau Desktop**: For building the interactive dashboard.
